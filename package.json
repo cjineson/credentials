@@ -1,0 +1,13 @@
+{
+  "name": "credentials",
+  "version": "1.0.0",
+  "description": "Access username/password pairs in Credentials store",
+  "main": "credentials.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chris Ineson",
+  "dependencies": {
+    "nconf": "^0.8.4"
+  }
+}
