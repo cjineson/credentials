@@ -4,7 +4,7 @@
   "description": "Access username/password pairs in Credentials store",
   "main": "credentials.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "aespwd=abcdefgh node test.js"
   },
   "author": "Chris Ineson",
   "dependencies": {
